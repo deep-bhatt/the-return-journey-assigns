@@ -17,4 +17,4 @@ const car1 = { brand: 'Toyota', model: 'Corolla', year: 2017 };
 const car2 = { brand: 'Honda', color: 'red' };
 
 const mergedCar = mergeCars(car1, car2);
-console.log(mergedCar);
+console.log(mergedCar); // { brand: 'Honda', model: 'Corolla', year: 2017, color: 'red' }

@@ -26,4 +26,4 @@ function findCommonElements(arr1, arr2) {
   return commonElements;
 }
 
-console.log(findCommonElements([1,2,3], [2,3,4]));
+console.log(findCommonElements([1,2,3], [2,3,4])); // [ '2', '3' ]
