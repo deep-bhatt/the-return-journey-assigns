@@ -14,7 +14,7 @@ Follow these instructions to get started
 
 ### Clone & install dependencies
 ```sh
-git clone <url>
+git clone https://github.com/deep-bhatt/the-return-journey-assigns.git
 cd TheReturnJourneyBackendAssign/api
 npm install
 ```
